@@ -6,6 +6,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
   }
+p{
+    justify: justify;
+}
   
   header {
     background-color: #fff;
